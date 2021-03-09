@@ -7,7 +7,7 @@ int main(void)
 
 	if (isspace != 0)
 	{
-		printf("공백 문자입니다.\n"); # 
+		printf("공백 문자입니다.\n");
 	}
 	else
 	{
