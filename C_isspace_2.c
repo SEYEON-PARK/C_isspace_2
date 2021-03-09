@@ -3,15 +3,15 @@
 
 int main(void)
 {
-	char a = ' ';
+	char a = ' '; # ì´ˆê¸°í™”
 
 	if (isspace != 0)
 	{
-		printf("°ø¹é ¹®ÀÚÀÔ´Ï´Ù.\n");
+		printf("ê³µë°± ë¬¸ìì…ë‹ˆë‹¤.\n"); # 
 	}
 	else
 	{
-		printf("°ø¹é ¹®ÀÚ°¡ ¾Æ´Õ´Ï´Ù.\n");
+		printf("ê³µë°± ë¬¸ìê°€ ì•„ë‹™ë‹ˆë‹¤.\n");
 	}
 
 	return 0;
