@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	char a = ' '; # 초기화
+	char a = ' '; // 초기화
 
 	if (isspace != 0)
 	{
@@ -12,7 +12,7 @@ int main(void)
 	else
 	{
 		printf("공백 문자가 아닙니다.\n");
-	}
+	} 
 
 	return 0;
 }
